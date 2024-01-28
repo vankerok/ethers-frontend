@@ -4,7 +4,7 @@ const a = 5
 
 function App() {
   return (
-    <div>Soon..</div>
+    <h1>Soon..</h1>
   );
 }
 
